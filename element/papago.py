@@ -2,8 +2,6 @@
 
 import requests
 import re
-import os
-import sys
 
 # original git = https://github.com/hunkim/line-papago-bot
 
