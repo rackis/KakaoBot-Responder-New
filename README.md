@@ -53,6 +53,7 @@ https://www.realvnc.com/en/connect/download/viewer/
 지역 Asia
 위치 Seoul
 키보드 국가 Korea, Republic of [101/104 key]</pre>
+(와이파이 국가 설정은 기본대로 영국으로 그대로 두세요. 한국으로 변경하면 와이파이 스캐닝이 안되는 오류가 있습니다.)
 
 설정이 완료되면 재부팅 한다.
 
